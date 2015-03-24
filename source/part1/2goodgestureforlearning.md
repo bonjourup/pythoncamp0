@@ -23,4 +23,31 @@
 
 学习中的求助、讨论都是有必要的，但是都代替不了自己的思考和总结，当有了自己的思考才能真正地参与讨论。
 
+###第1周
+
+- 戒除第0周“小白”莽撞心态，学习制定框架和规划
+
+目前对捣腾电脑的感觉知觉已有，如果还仅以“小白"自居，导致学习无规划和框架，盲目原谅自己效率低下,从而进步缓慢产生懈怠感。
+本周正式进入python学习，因为前一周的落后导致还在补习上周的不足。
+
+导致补习相对落后的有：切换windows系统和ubuntu系统两个系统，其实基本原理一样，理解了基本原理，两个系统切换操作目前还算顺畅。刚开始之所以不以windows进行操作，因为想和大家一样，以免遇到问题，其他人无法帮助解决。现在看来，只要自己理解了基本原理，自己也可以帮助自己在看ubuntu情况下的指导进行windows的操作。尤其是windows中使用的power shell指令。
+
+目前已经掌握 ubuntu、windows下的双推github、gitbook方法。
+
+在本地git库中修改.git文件夹里的config文件如下：
+
+[remote "origin"]
+         
+       url = git@github.com:<id>/<name>.git
+       
+       url = https://git.gitbook.com/<id>/<name.git
+     
+       fetch = +refs/heads/*:refs/remotes/origin/* 
+
+
+
+未明白的地方：
+* git push -u origin master 中的-u起什么作用？
+* 如果使用git pull 是不是会从gitbook的库中pull回文件？
+
 
