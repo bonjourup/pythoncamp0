@@ -46,7 +46,8 @@
 
 
 
-未明白的地方：git push -u origin master 中的-u起什么作用？
-           如果使用git pull 是不是会从gitbook的库中pull回文件？
+未明白的地方：
+* git push -u origin master 中的-u起什么作用？
+* 如果使用git pull 是不是会从gitbook的库中pull回文件？
 
 
