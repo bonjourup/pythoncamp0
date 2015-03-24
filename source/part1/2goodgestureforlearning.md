@@ -36,14 +36,13 @@
 
 在本地git库中修改.git文件夹里的config文件如下：
 
-
-> [remote "origin"]
->          
->         url = git@github.com:<id>/<name>.git
->          
->         url = https://git.gitbook.com/<id>/<name.git
->      
->         fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "origin"]
+         
+       url = git@github.com:<id>/<name>.git
+       
+       url = https://git.gitbook.com/<id>/<name.git
+     
+       fetch = +refs/heads/*:refs/remotes/origin/* 
 
 
 
