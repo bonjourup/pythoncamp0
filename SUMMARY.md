@@ -11,7 +11,7 @@
    * Markdown   
 * [Python学习记录](source/part3/introduction)
    * [Guess the number作业思路（待续）](source/part3/1.md)
-* [打怪记录](temp/打怪记录)
+* [打怪记录]
    * [3月打怪记录](temp/每日打怪记录.md)
 * [结尾](/source/end.md)
 * [First Chapter](chapter1.md)
