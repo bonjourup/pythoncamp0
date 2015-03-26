@@ -10,7 +10,7 @@
    * Git和Github、Gitbook
    * Markdown   
 * [Python学习记录](./source/part3/introduction)
-   * [Guess the number作业思路（待续）](./source/part3/第一周作业思路.md)
+   * [Guess the number作业思路（待续）](./source/part3/guessthenumber.md)
 * [结尾](./source/end.md)
 * [First Chapter](chapter1.md)
 
