@@ -47,3 +47,5 @@ git commit -m "commit directions"
 git push
 
 全文引自[linux社区--Ubuntu下Git以及Github使用](http://www.linuxidc.com/Linux/2012-06/62168p2.htm)
+
+参考 [Ubuntu git 安装和使用](http://www.linuxidc.com/Linux/2012-09/71193.htm)
