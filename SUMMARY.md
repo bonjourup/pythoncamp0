@@ -8,9 +8,9 @@
 * [学编程的工具方法篇](/source/part2/)
    * Ubuntu的安装
    * Git和Github、Gitbook
-       [Ubuntu下git和github快速使用](source/part2/1Ubuntu下git和github快速入门.md)
-       [git常用命令](source/part2/git的使用.md)
-       [gitbook中disqus插件的安装](source/part2/installdisqus.md)
+      [Ubuntu下git和github快速使用](source/part2/1Ubuntu下git和github快速入门.md)
+     [git常用命令](source/part2/git的使用.md)
+      [gitbook中disqus插件的安装](source/part2/installdisqus.md)
    * Markdown   
 * [Python学习记录](source/part3/introduction)
    * [Guess the number作业思路（待续）](source/part3/1.md)
