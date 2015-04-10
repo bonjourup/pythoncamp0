@@ -1,0 +1,13 @@
+##如何在Gitbook里安装disqus插件？
+
+【历程】本打算在window系统给Gitbook安装disqus插件的，看了若干指南没有看懂。要安装npm，然后再安装disqus。在windows系统下，要安装npm需要先安装node.js,这个又需要一通折腾。想想算了。
+
+于是，犹豫再三，十分不情愿地想切换到ubuntu也罢。后来还是开机时，系统自己先进入ubuntu系统。那就在ubuntu系统下试试吧。不过也不是上来就安装disqus，而是各种浏览后，看python视频无果之后，才开始安装disqus的。可能对disqus的安装没有成功预期，也就没有那么多动力和积极性。
+
+不过，不过，奇怪的是，安装disqus本身仅仅花费了不到10分钟。
+
+花费时间较长的是，将新修改的book.json文件推送到github，gitbook花费了较长时间。明知道我在git push环节屡次出问题时粗暴地用git push --force是可以推送成功的。但是就是不想用--force方式，多次push不成功，于是，还得退到老路上，git push --force推送，成功。不过一点也不开心。为什么每次都得force？
+
+**留下问题：没有理解git push具体的错误提示，对git还是各种不了解。需要全面的学习一下。**
+
+
