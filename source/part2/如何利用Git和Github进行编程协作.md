@@ -22,7 +22,6 @@
   
     `  git checkout -b processtest0`
 
-   
 3. 然后在分支上进行修改
     
     修改某个文件后，git add、git commit后
