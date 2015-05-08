@@ -12,7 +12,7 @@
 =======
    * [Ubuntu下git和github快速使用](source/part2/1Ubuntu下git和github快速入门.md)
    * [gitbook中disqus插件的安装](source/part2/installdisqus.md)
-   * [如何利用Git、Github进行编程协作](source/part2/如何利用Git和Github进行编程协作.md)
+   * [如何利用Git、Github进行协作编程](source/part2/如何利用Git和Github进行协作编程.md)
    * Markdown   
 * [Python学习记录](source/part3/introduction)
    * [Guess the number作业思路（待续）](source/part3/1.md)
