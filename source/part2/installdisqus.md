@@ -14,21 +14,29 @@
 
 ###在ubuntu环境下安装gitbook disqus插件步骤如下：
 
-1.首先安装npm
-  sudu apt-get install npm
-2.在npm下安装disqus插件
- $ sudo npm install gitbook-plugin-disqus -g
-或者 npm install gitbook-plugin-disqus -g
-   不知道两个命令有什么区别？
-3.在book.json文件中添加代码后保存：
-   {
-        "plugins":["disqus"],
-        "pluginsConfig":{
-                "disqus":{
-                   "shortName":"******"
-                       }
-                      }
-   }
-4.然后git更新远程仓库即可。
+**1.首先安装npm**
 
-Ps：根据邮件列表提示搜索相关教程综合而成。
+ ` sudu apt-get install npm`
+
+**2.在npm下安装disqus插件**
+
+
+     $ sudo npm install gitbook-plugin-disqus -g
+
+或者` npm install gitbook-plugin-disqus -g`
+
+（Q:不知道两个命令有什么区别？)
+
+**3.在book.json文件中添加代码后保存：**
+
+       {
+    "plugins":["disqus"],
+    "pluginsConfig":{
+    "disqus":{
+       "shortName":"******"
+       }
+      }
+       }
+**4.然后git更新远程仓库即可。**
+
+[根据邮件列表提示搜索相关教程综合而成。]
